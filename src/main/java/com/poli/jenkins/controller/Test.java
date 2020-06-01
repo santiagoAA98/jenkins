@@ -8,7 +8,7 @@ public class Test {
 
     @GetMapping("/")
     public String hola() {
-        return "Hi Ronal this is a test.";
+        return "tarea de jenkins";
     }
 
     @GetMapping("/hola")
